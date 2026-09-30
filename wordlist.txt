@@ -1,0 +1,7 @@
+admin
+images
+login
+robots.txt
+api
+css
+js

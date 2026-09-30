@@ -1,0 +1,44 @@
+[
+    {
+        "url": "http://seznam.cz/admin",
+        "status": 301,
+        "length": 0,
+        "redirect": "https://seznam.cz/admin"
+    },
+    {
+        "url": "http://seznam.cz/css",
+        "status": 301,
+        "length": 0,
+        "redirect": "https://seznam.cz/css"
+    },
+    {
+        "url": "http://seznam.cz/js",
+        "status": 301,
+        "length": 0,
+        "redirect": "https://seznam.cz/js"
+    },
+    {
+        "url": "http://seznam.cz/api",
+        "status": 301,
+        "length": 0,
+        "redirect": "https://seznam.cz/api"
+    },
+    {
+        "url": "http://seznam.cz/login",
+        "status": 301,
+        "length": 0,
+        "redirect": "https://seznam.cz/login"
+    },
+    {
+        "url": "http://seznam.cz/images",
+        "status": 301,
+        "length": 0,
+        "redirect": "https://seznam.cz/images"
+    },
+    {
+        "url": "http://seznam.cz/robots.txt",
+        "status": 301,
+        "length": 0,
+        "redirect": "https://seznam.cz/robots.txt"
+    }
+]
