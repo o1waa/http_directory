@@ -1,0 +1,5 @@
+python http_directory.py -u seznam.cz -w wordlist.txt -x php,txt,html
+
+python http_directory.py -u seznam.cz -w wordlist.txt -mc 200
+
+python http_directory.py -u seznam.cz -w wordlist.txt -o vysledky.json
